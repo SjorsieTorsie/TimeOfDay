@@ -1,3 +1,4 @@
+package timeofday;
 
 public class TimeOfDay {
 	
