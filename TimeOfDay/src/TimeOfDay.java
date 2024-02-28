@@ -2,7 +2,7 @@
 public class TimeOfDay {
 	
 	/**
-	 * @invar Hours moet tussen 0 en 23 zitten en Minutes moet tussen 0 en 59 zitten ja
+	 * @invar Hours moet tussen 0 en 23 zitten en Minutes moettussen 0 en 59 zitten ja
 	 * | 0 <= getHours() && getHours() <= 23 &&
 	 * | 0 <= getMinutes() && getMinutes() <= 59
 	 */
